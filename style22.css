@@ -1,0 +1,38 @@
+
+    .header{
+        background-image: url(../jane.jpg);
+        background-position: center;
+        height: 150vh;
+     
+        background-size: cover;
+        display: flex;
+    justify-content: flex-start;
+    align-items: center;
+        
+    }
+    .f1{
+        background-color: black;
+        padding: 5px;
+        color: white;
+    }
+    
+
+.row1{
+    background-color: goldenred;
+    text-align: center;
+    font-size: 30px;
+
+
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.welcome{
+color: black;
+font-size: 60px;
+text-align: center;
+}
+.first{
+    color: white;
+    font-size: 30px;
+   
+}
